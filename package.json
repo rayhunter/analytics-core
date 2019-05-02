@@ -1,0 +1,26 @@
+{
+  "name": "analytics-core",
+  "version": "1.0.0",
+  "description": "analytics core for alexa and google",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhunter/analytics-core.git"
+  },
+  "keywords": [
+    "alexa",
+    "google",
+    "actions",
+    "skills",
+    "analytics"
+  ],
+  "author": "“Ray <“ray.hunter@gmail.com”> (http://www.likesugar.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayhunter/analytics-core/issues"
+  },
+  "homepage": "https://github.com/rayhunter/analytics-core#readme"
+}
